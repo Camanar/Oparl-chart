@@ -1,0 +1,7 @@
+machine github.com
+login Camanar
+password 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
+
+machine api.github.com
+login Camanar
+password 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
